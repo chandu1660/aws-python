@@ -46,5 +46,5 @@ class aws:
             }],
             )    
         
-    except Exception as e:
-        print(e)
+    except Exception: 
+        print("Please check try block")
