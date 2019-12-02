@@ -1,5 +1,5 @@
 import boto3
-<<<<<<< HEAD
+
 
 
 class aws:
@@ -7,7 +7,7 @@ class aws:
     ec2 = boto3.resource('ec2')
     ec1 = boto3.client('ec2')
 
-=======
+
 class aws:
     
     ec2 = boto3.resource('ec2')
